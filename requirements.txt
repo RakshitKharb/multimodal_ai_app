@@ -47,10 +47,10 @@ pillow==11.0.0
 propcache==0.2.0
 pydantic==2.9.2
 pydantic_core==2.23.4
-pypiwin32==223
+
 python-dotenv==1.0.1
 pyttsx3==2.98
-pywin32==308
+
 PyYAML==6.0.2
 regex==2024.11.6
 requests==2.32.3
